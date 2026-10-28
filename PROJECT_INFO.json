@@ -6,5 +6,7 @@
   "ownership": "GitHub and Cloudflare accounts should be registered by user",
   "cloudflare_worker": "vr94-furniture-site2",
   "wrangler_config": "wrangler.jsonc",
-  "assets_directory": "./site"
+  "assets_directory": "./site",
+  "brand_logo": "site/media/vr94-logo.png",
+  "logo_rule": "When the user says company logo or logo, use this exact user-provided official image."
 }
