@@ -8,5 +8,7 @@
   "wrangler_config": "wrangler.jsonc",
   "assets_directory": "./site",
   "brand_logo": "site/media/vr94-logo.png",
-  "logo_rule": "When the user says company logo or logo, use this exact user-provided official image."
+  "logo_rule": "When the user says company logo or logo, use this exact user-provided official image.",
+  "videos_included": false,
+  "project_photos_included": true
 }
