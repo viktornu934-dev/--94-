@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Оникс Азул",
+    "image": "/media/portfolio/countertop-onyx-azul.jpg",
+    "description": "Светло-серый мраморный декор с тёплыми золотистыми прожилками.",
+    "alt": "Оникс Азул — декор столешницы"
+  },
+  {
+    "title": "Королевский опал",
+    "image": "/media/portfolio/countertop-royal-opal.jpg",
+    "description": "Тёмный глянцевый декор с коричнево-золотистыми прожилками.",
+    "alt": "Королевский опал — декор столешницы"
+  },
+  {
+    "title": "Дуб Флагстаф",
+    "image": "/media/portfolio/countertop-oak-flagstaff.jpg",
+    "description": "Древесный декор с выразительной текстурой и характерными сучками.",
+    "alt": "Дуб Флагстаф — декор столешницы"
+  },
+  {
+    "title": "Кастило тёмный",
+    "image": "/media/portfolio/countertop-castillo-dark.jpg",
+    "description": "Тёмная каменная текстура с контрастным рисунком.",
+    "alt": "Кастило тёмный — декор столешницы"
+  },
+  {
+    "title": "Каспий белый",
+    "image": "/media/portfolio/countertop-caspian-white.jpg",
+    "description": "Светлый мраморный декор с золотисто-бежевыми прожилками.",
+    "alt": "Каспий белый — декор столешницы"
+  },
+  {
+    "title": "Оникс голубой",
+    "image": "/media/portfolio/countertop-onyx-blue.jpg",
+    "description": "Голубовато-серый мраморный декор с мягкими прожилками.",
+    "alt": "Оникс голубой — декор столешницы"
+  },
+  {
+    "title": "Дуб Вотан",
+    "image": "/media/portfolio/countertop-oak-votan.jpg",
+    "description": "Древесный декор с сучками и выраженной текстурой.",
+    "alt": "Дуб Вотан — декор столешницы"
+  },
+  {
+    "title": "Альберика",
+    "image": "/media/portfolio/countertop-alberika.jpg",
+    "description": "Светлый мраморный декор с серыми прожилками.",
+    "alt": "Альберика — декор столешницы"
+  }
+]

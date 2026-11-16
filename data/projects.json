@@ -1,1 +1,2242 @@
-[]
+[
+  {
+    "title": "Спальня в тёплых оттенках",
+    "category": "Спальни",
+    "image": "/media/portfolio/bedroom-installation-01.jpg",
+    "description": "Кровать с мягким изголовьем, прикроватные тумбы и вместительная система хранения.",
+    "alt": "Спальня с мягким изголовьем, прикроватными тумбами и встроенным шкафом",
+    "year": ""
+  },
+  {
+    "title": "Школьный стул на металлическом каркасе",
+    "category": "Металлокаркасы для школ",
+    "image": "/media/portfolio/school-chair-metal-frame.jpg",
+    "description": "Серое пластиковое сиденье и спинка, синий металлический каркас.",
+    "alt": "Школьный стул с серыми пластиковыми сиденьем и спинкой на синем металлическом каркасе",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 001",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/001-27061f99-18c3-4734-aa44-85eb6589ba90.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 002",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/002-3653faab-51b9-412a-9e22-c2dd190c5585.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 003",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/003-4d5899bd-fffb-43c6-b9c3-2fb538cf9510.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 004",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/004-5b0719db-cbe5-4500-94d1-ca26f82b3d28.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 005",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/005-5e928989-b5d1-4a4c-9e51-f2770b54efcd.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 006",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/006-79bb90d3-8b3e-42f3-a056-23b8aff8e050.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 007",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/007-7d5e16c6-27d9-40ba-bf23-90be2a6c5a2f.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 008",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/008-7ed97615-2e93-4fdd-9d10-30160e4feb37.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 009",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/009-9d63a0f2-a7ab-486c-81f2-8845d0c8e113.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 010",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/010-ab148f93-57e5-4c1a-9d0c-66200941d84a.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 011",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/011-ccda7f36-d764-4297-8486-cf865cf18b38.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 012",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/012-dca79246-12db-4a95-bac2-4d90c60e8c8a.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 013",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/013-dd90f618-5d57-4819-897b-4ec7d1138de7.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Гостиные — проект 014",
+    "category": "Гостиные",
+    "image": "/media/portfolio/works/living-rooms/014-fbd2a186-7eaf-43a2-9a79-022e0d55d6a1.jpg",
+    "description": "",
+    "alt": "Гостиные, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 001",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/001-016f2364-8983-4fbb-98bf-3fcabc27ce93.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 002",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/002-06eb63b3-458c-4b30-817f-2c6d57b636d4.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 003",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/003-09b7bb0c-b3b4-4eb0-afeb-93200938295c.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 004",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/004-0cb48af8-3c3c-4663-8051-48bf99a74622.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 005",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/005-0cc4b595-029f-4830-89a3-51f2fd88abd1.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 006",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/006-0d0f588f-7f76-4679-8887-5d65b0fe90da.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 007",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/007-17d9c22f-cfba-4f1d-8756-d5022c1897f7.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 008",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/008-1c3ac122-cc61-4707-930d-a588c0a87f8e.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 009",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/009-1f0c23db-654f-4d21-b552-86a1e1221909.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 010",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/010-20003cc0-694e-4e94-ba6c-8f2a2a707e88.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 011",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/011-20adefef-d357-4fc9-9222-43798fd238ca.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 012",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/012-219294ca-c40d-4e3c-b91e-cb665b548e17.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 013",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/013-2448ebf3-b068-4a6c-979d-e2157fb704b1.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 014",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/014-24f62a4b-97c8-4ca8-a612-3ebb9174ff0c.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 015",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/015-267c1bb0-b725-4508-8238-e165a6712c90.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 016",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/016-29f26288-c0d2-4f30-95bc-6ffd50e5903d.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 017",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/017-311756dd-4dba-40cc-a4ab-bf29ba4cd3cc.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 018",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/018-3334962b-bbda-4c66-b3e5-ac888185d3c3.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 019",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/019-33f20ec7-cda4-4408-aef7-f796981cb94d.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 020",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/020-3517b467-3dee-43d7-a105-32f56b0ac710.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 021",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/021-35209175-31cf-47ec-bac9-255d6be7011e.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 022",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/022-37119277-54b9-4bef-b543-3d9ba1be9ba2.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 023",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/023-37e2d59e-0f9e-4ea7-996b-3066aaf93b91.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 024",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/024-3c0c2af4-03a1-43c3-b104-5da94f3fc878.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 025",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/025-3d65a682-4ac1-488e-8d68-c2763b5fc093.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 026",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/026-3ea9e259-11c8-4125-9061-d3a208b1ed47.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 027",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/027-404f5187-6536-4597-800e-cdab6eeeba16.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 028",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/028-4081fbca-5687-4faa-a7cb-f2ec86eb4f84.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 029",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/029-441ce56c-473b-4776-a79d-dd01ad8c9cd5.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 030",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/030-4ae05703-8a9d-4fc6-b635-16e24d2c7c2d.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 031",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/031-4afefffa-fbae-4680-85d8-7f28f50786a8.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 032",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/032-4e31afd0-84cf-4406-b097-6783e9700ecb.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 033",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/033-505820db-c9f3-4c52-9cf9-1fe306084f16.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 034",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/034-511337f5-065f-4cd6-94c3-87bd27166387.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 035",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/035-58f9d258-0f69-4b88-bb99-09686c008bd1.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 036",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/036-5be912d8-1567-481b-a80c-a693f75d373e.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 037",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/037-5beb09f8-48a3-4e58-b206-db72273792d7.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 038",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/038-5d92d212-3e9e-4f97-9bf9-91b0b3226182.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 039",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/039-5ec7b979-27a6-4da4-890d-f44d9ea8246c.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 040",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/040-6a752113-0d1c-4fd1-9006-659ea3484e07.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 041",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/041-6f3f4d09-abcf-4883-89b9-f0586a2ed5d8.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 042",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/042-6f649747-6b0b-442b-b610-398f3925b9cd.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 043",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/043-724cea0d-144e-42ae-97cd-cc588ae8e6a4.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 044",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/044-73083f1c-c3a6-4b36-b2c0-9fc72e214083.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 045",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/045-732f18a6-a56b-4e50-9801-de002572eb5e.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 046",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/046-7e51dddc-0ee5-49fc-8c5f-dd34a0d1a2e7.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 047",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/047-8040784c-54ac-45bb-8c24-70a7bad6bbe3.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 048",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/048-81c85195-0ab8-4ea0-a5f0-af15f3150090.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 049",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/049-851e3458-351d-47b2-b271-50d85060f2c5.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 050",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/050-861e8a7f-ba7e-42c9-97fe-776993def982.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 051",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/051-8fd60b28-e137-4b87-b16b-d70aa352eaa3.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 052",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/052-93949f83-f937-483b-b6ce-ba01e750efee.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 053",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/053-94166a28-1460-4e50-92f3-623c5c1d5202.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 054",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/054-97fea8b4-16ef-4bbb-ae0e-9525c15cfdd1.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 055",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/055-9d873336-6c54-4b1b-9b0e-ec0e01cae3b5.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 056",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/056-a3ef5abd-337e-41c9-bc9c-346ae8bc37d3.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 057",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/057-a516fc38-9c42-4c23-a149-04d2f1a36969.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 058",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/058-a64cb39e-bbbb-40a3-87f0-0ef7838dd8fa.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 059",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/059-aaa0f0f4-ab0c-4c11-bcf4-378f9b282c98.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 060",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/060-b332d2e0-cccf-4901-9777-c0488e499c1d.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 061",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/061-b3ee3f41-6d96-4db4-aecb-a1e93ccaa7f0.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 062",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/062-b472672f-b9bb-40b9-b001-ff8ee141eec9.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 063",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/063-b6bea70d-3adc-4cec-8636-20a612b5863a.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 064",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/064-b972f969-7cd9-4589-b395-a241a9419e13.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 065",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/065-ba726ff5-8e77-411d-b9cf-c0853fc2b23d.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 066",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/066-bbe337af-80f0-4649-ae80-d4d89701413a.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 067",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/067-c1efd1c5-2013-44b0-8107-6e58e65b18f4.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 068",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/068-c216f1d2-d19e-463f-81de-1dcb2fcec360.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 069",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/069-c77fa004-2893-4ecc-8b75-b6fff9f100c6.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 070",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/070-c79a5c6c-0ec0-49b9-8378-e8283624b131.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 071",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/071-cc68d0a3-08be-4bed-a959-a1f68222a0c6.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 072",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/072-ceb68364-c8fc-40d2-b387-fe7b5ddc17fc.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 073",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/073-d0e32a55-68e2-4937-87bd-cbc99fab30c2.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 074",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/074-d454d5b8-b0ef-4a07-8e50-bff2936359fc.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 075",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/075-decbc2d1-bf20-4c9b-9180-a366987e0080.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 076",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/076-e2f94207-2260-4c38-af2c-8dbda317f38f.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 077",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/077-e3978ead-9ee4-4e1d-ae84-aeec86b7a028.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 078",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/078-e7878c39-f025-4d2a-b2b8-9ccf289eabd2.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 079",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/079-eeee13c1-bbb3-4345-b898-0e421097e18e.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухни — проект 080",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/080-f884426f-636c-4dd9-879e-6ef24934e7d3.jpg",
+    "description": "",
+    "alt": "Кухни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 001",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/001-04f40412-c9b3-4d9d-930f-f3a206ec26fe.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 002",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/002-0c0d5367-b928-4af2-917e-5f79420f3883.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 003",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/003-11a5569a-c336-4398-b71a-9a9b2a720019.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 004",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/004-16fa3954-425f-4232-b03f-ec08330a6ebe.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 005",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/005-1c919100-2d5a-47b7-b4d5-223ff5270aca.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 006",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/006-20c277ea-ac02-44d5-85f3-aa75729d11bf.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 007",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/007-20f4b4c8-a54a-4f46-8b07-9713153b28bd.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 008",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/008-21de3a1a-0311-4e0f-86dc-4af72f25a4c6.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 009",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/009-331a4f50-1c45-468d-b352-29d786f4d56e.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 010",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/010-3dc83e9c-cf94-4910-8ced-693222a8dd92.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 011",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/011-43fe5c96-51f2-4f0a-bfcb-c7cf2218a0dd.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 012",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/012-465faf22-cb8b-4a6c-ba91-81d115fdfca5.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 013",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/013-4ce3de5d-f951-42fc-ab29-a6fcd08e90c2.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 014",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/014-53ecb6f3-0341-41d8-b5a2-7107f2ba7421.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 015",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/015-5e9e2d76-52b8-4412-95d8-ae018fab3ec2.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 016",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/016-7ab1f89e-133a-4aa2-be6b-20c5ef3ce81c.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 017",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/017-848fef24-19dd-419f-859e-b4db3d05f878.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 018",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/018-974cc447-1129-4c99-993b-356b3dece97d.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 019",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/019-bf83b452-5c8c-488a-ab8f-3384c3a2afd8.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 020",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/020-c8a425fd-7548-448b-9cd9-bbeec27b7ce7.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 021",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/021-edd98070-174c-4850-beb8-95f1669e1326.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 022",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/022-ee0100fe-9269-4bbc-b927-ec390850cca3.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 023",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/023-ef0aa164-fdfd-4b70-89ff-8170663adb64.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 024",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/024-efeb95f6-1884-4c18-a90a-0c2c885c4e8f.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для санузла — проект 025",
+    "category": "Мебель для санузла",
+    "image": "/media/portfolio/works/bathrooms/025-f6b2973e-973d-4c43-8c98-12ef8c158312.jpg",
+    "description": "",
+    "alt": "Мебель для санузла, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 001",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/001-009b352c-4cb7-4fee-aa0c-5b07c6c551af.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 002",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/002-009f7ea3-b134-42a6-ac9c-53ff41688ca2.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 003",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/003-01d83f72-1840-48e2-b481-9c21c66e4cc2.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 004",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/004-04d17019-91df-4c7f-98c3-62499fdb27a9.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 005",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/005-0cc24765-820a-4dfb-9ac8-39bdc0ff6415.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 006",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/006-0ddcbefa-cc10-473a-b273-7ac48c4bac27.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 007",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/007-102d8921-c07e-46b4-b1de-27800adf2f0e.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 008",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/008-108f1b39-3b97-43ac-8d31-bf1de64e0fc1.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 009",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/009-17d66c7f-86e8-46fe-9a25-c8be9670937c.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 010",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/010-19b12a12-42e8-4322-a7df-3fc1679e2b2c.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 011",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/011-1d986034-db4f-419b-a3d6-62c71e5258e7.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 012",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/012-1e15c4b5-5026-4638-9d95-3cf76b87a52d.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 013",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/013-2038dc0c-b3cc-421d-a19e-90853b8cad4e.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 014",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/014-284e34cf-9755-4d76-ae72-03aeca92033d.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 015",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/015-28b19e6b-ca84-4c94-9432-5ebef98db70a.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 016",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/016-28d846ba-cc36-4368-beef-c335e7c8733b.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 017",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/017-2e5ce87d-ec3e-4c20-a49a-cea1c07c2ca2.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 018",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/018-3057314a-1000-4866-934e-8b7477fbccee.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 019",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/019-3191b373-4e33-4c0b-90f5-1171463858a3.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 020",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/020-333855d3-1064-43ca-984a-cb1e1d6bae29.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 021",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/021-34999d8e-3f64-47b9-8364-9c7c2ab07522.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 022",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/022-395a222b-43dc-4cd1-b621-33ba1d24e995.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 023",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/023-39e050f0-d608-4ee4-b42f-8510078fb356.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 024",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/024-4153fc61-629f-49cd-9ff5-b0a3a669ebbd.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 025",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/025-4385d646-cc2a-4bc4-8182-d2e42eae45cc.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 026",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/026-4725f9cb-82b7-4f8b-b970-1c99b33d7361.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 027",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/027-47cd29c9-4a49-4623-8249-5f63c924ccbf.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 028",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/028-4a59a6a0-ef74-449b-b5f4-e684b34beb6f.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 029",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/029-4b6a8a87-8472-4531-8442-fc2259255094.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 030",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/030-513522f6-df8c-4474-bf54-2206530f2d21.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 031",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/031-517d721b-f8e8-4c02-b728-f143d5461e6f.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 032",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/032-53537225-171c-47c8-83c6-9d32a767747b.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 033",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/033-5501e90b-08a0-43ba-8810-4639727e4e06.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 034",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/034-5b089594-1f69-4fc0-a10a-a38da601e0c3.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 035",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/035-5b45a5af-c6dc-4398-9c4b-af781e7858db.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 036",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/036-638464e2-ead5-4837-90c0-ed828abb3315.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 037",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/037-64346002-3dfe-494a-891c-607fe7d444e2.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 038",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/038-6633b855-e821-4c82-9e7e-adaead47d08d.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 039",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/039-6c0cbb0b-3907-4e47-a2cf-0876c9678830.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 040",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/040-72feeb7c-1fda-430d-9165-3d25145e2250.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 041",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/041-7593b37e-9fc3-428f-83d5-a6dccb70cdf6.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 042",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/042-76820e5a-2f70-47b7-95bc-7e93bb7475cb.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 043",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/043-7e430c27-dccf-4f1a-84cb-c2dfe911ad23.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 044",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/044-7f1ffb24-daaf-4a18-9d2c-4d8e624aa388.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 045",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/045-8209265e-1ce0-4528-8343-f6ef392dfbb5.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 046",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/046-88612c1e-9a04-4e4f-800b-51041f125d66.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 047",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/047-8ff5a9a8-ba6d-4c0c-8b2e-f2d3f0ffd061.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 048",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/048-90930a29-4281-4080-b914-56156bb0455c.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 049",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/049-93092f2f-3be2-401d-a57e-d629fa87f4cb.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 050",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/050-93b19edc-a3af-46f8-ad25-450878b9d23c.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 051",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/051-93e1046f-5565-4121-b307-5bd615a739d1.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 052",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/052-970440b1-a790-44f2-8cd4-7c947ab5e7cf.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 053",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/053-9a1a52d3-4877-409b-8cdb-c7803d0911a8.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 054",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/054-9d7b2b85-5a08-48af-802a-a3d155d13062.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 055",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/055-9f827464-404c-4512-a5cb-cc7e1300f118.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 056",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/056-a041fb55-dd84-4645-8b1c-4507d2306796.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 057",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/057-a080b54b-e4e2-4683-b581-53fbf1a99a7d.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 058",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/058-a118ed4a-41c2-4a92-89a7-6f6ec451f84c.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 059",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/059-a98bf47b-1e51-4a4e-843c-ec874c439af8.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 060",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/060-aac5252d-bc66-481d-967d-453db2705c48.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 061",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/061-ab895ac6-cffa-421f-b89d-8402149e986c.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 062",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/062-ac7e579e-1c1a-48c2-94b7-450a4f5921f6.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 063",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/063-ae368a50-3d4b-485c-a45f-4c2d8c9ad50a.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 064",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/064-b1f8900f-e701-4c5e-8f48-c9cbdf568ace.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 065",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/065-b7393c21-89cb-4c55-8847-8e0059d62544.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 066",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/066-b912245c-a152-4edb-98f5-7df98ed16702.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 067",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/067-ba7ffe37-31b2-462f-b3c1-9e534238562e.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 068",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/068-bb3446fb-c612-400b-aba3-82ec6a2a7f07.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 069",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/069-bcdcb86b-2a91-4de9-9b17-8ae917f45d30.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 070",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/070-c296f51f-1465-437f-b654-52cdb7f4417a.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 071",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/071-c3cf9622-6604-4445-8a6d-d80e718957df.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 072",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/072-c546faa3-d7c4-4c08-b712-18586522f4d3.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 073",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/073-cac23dd8-48c7-4bf4-8803-f5ebdcb835d9.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 074",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/074-d024fafd-4eb1-4808-ad42-8471d5996a77.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 075",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/075-d171d9ab-286b-4818-81f9-b6286e150d9b.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 076",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/076-d2fdab69-000e-4e35-8652-15266e0fdc46.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 077",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/077-d5475b67-4294-466f-908a-edd902db6aef.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 078",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/078-db18b2ca-6265-438f-bb5c-c3487db5dced.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 079",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/079-dcf79869-6b95-4184-885c-e1bfd96b06b4.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 080",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/080-e0106436-3286-4183-8697-8e390268fb93.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 081",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/081-e624f1e8-c19f-45c0-b6bc-2ed4c0c1d76f.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 082",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/082-e9a561ee-d2e7-47d5-bed2-41d470d589b2.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 083",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/083-ea11fcea-1b5e-4822-98a0-abdcd1aeb78f.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 084",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/084-ea2ce1be-4c0c-4d5e-b9ef-adbb60ec8134.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 085",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/085-f345e90d-5157-41b6-b46b-75e820eaad40.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 086",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/086-f733c226-0823-4bde-9737-cbb2f5c633c2.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 087",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/087-f7c5fd27-15eb-4513-8fea-58d0e3130e30.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 088",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/088-fc00325f-ee31-43e1-9662-c7d1442d5d3b.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Спальни — проект 089",
+    "category": "Спальни",
+    "image": "/media/portfolio/works/bedrooms/089-ff45e6f9-3402-4caf-ba6e-6bfd2c453c67.jpg",
+    "description": "",
+    "alt": "Спальни, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 001",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/001-00a6884e-0d84-40b1-9b8a-3fd7b90246e4.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 002",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/002-0a2f59fb-633e-4115-8203-036bd1c74a99.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 003",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/003-0b2fb73e-4bd0-4b57-8d08-e7f00fa7a3c9.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 004",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/004-0f2b35aa-42d3-4746-b9e3-75317bbd7aba.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 005",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/005-129ebd31-4fff-4744-8998-c153dc7f139f.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 006",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/006-1bbe769d-6b33-4b17-8090-5c1905d272cc.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 007",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/007-1c35ed14-2e64-454d-9621-0ac6ce6abb44.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 008",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/008-1d7bc9eb-ceec-4e9a-ada5-1fef53ec22b1.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 009",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/009-1da1d91a-404c-4059-bbf2-8898704eaa25.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 010",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/010-1f6feec3-c5bc-4fe3-90cf-93672c2ff3b9.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 011",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/011-2560e3b0-8622-4b03-aafb-fa89ad223a71.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 012",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/012-2685cb8d-f240-4d6c-8512-edb43e713c2e.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 013",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/013-2f27e7d1-98e0-424c-ad0f-03575bc334ba.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 014",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/014-30afa60a-d5cb-4927-b1b8-7f8853118f97.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 015",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/015-35d67430-dc7c-4ca2-a2ae-5745d3b3bdf4.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 016",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/016-3b1d7356-cacf-4180-b00f-59f9bbbb3d9b.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 017",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/017-3d0e3cf1-4331-41a9-94ba-f42c69090e1e.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 018",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/018-4598dd7c-db38-4796-92a7-c108550223e1.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 019",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/019-4719c2ff-ffc4-4f72-84c9-fd1672f9fcec.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 020",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/020-4771a3b9-f5bf-4d23-be24-637033a021af.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 021",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/021-4e7d0ed4-bdef-45f1-96cf-3bfc9a4ec0fb.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 022",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/022-5309d51d-ed41-425d-bde9-716595ca0d63.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 023",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/023-55de1821-6601-42ab-8c6e-176e6e326b2b.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 024",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/024-5d2420e3-73a6-4eb7-ac29-d3c7e2200286.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 025",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/025-5d2e800b-e03d-43ab-be75-2fcad5fa89a5.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 026",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/026-5ec61900-4ff6-4bbe-9386-799b3d5b2ea0.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 027",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/027-668244bc-1f6b-4fb7-a84f-4354f065c2bf.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 028",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/028-66a32491-0f81-4e77-9020-27dc206d655e.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 029",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/029-7aa2205c-548f-4adf-bab4-74a9405ca736.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 030",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/030-851a827e-f12c-42d5-9a20-ec15605d11a6.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 031",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/031-8d489299-60de-4027-935a-d7890f3e7fbb.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 032",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/032-93a9bdbd-3e2e-4101-9e8f-12b93f501b19.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 033",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/033-94f5b1cd-fb9e-4267-820b-0db8a3cbe76e.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 034",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/034-9950a3f1-2468-4b00-8bed-d0f237def51d.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 035",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/035-9fcc7163-8935-4975-8397-6f54cda2fcfd.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 036",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/036-a4ce3094-026d-4183-88c1-a4a0741a84d1.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 037",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/037-b02af6ea-0beb-457c-9cd4-a76878433492.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 038",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/038-b1b61053-cb9a-4525-a1c2-8e5b733036da.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 039",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/039-b1e554aa-93f9-44b7-ba86-4999c9b1cd66.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 040",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/040-b39a1be0-7441-42c8-bd0c-c7b6e3c166c3.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 041",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/041-b7801a99-860d-4175-9ed1-c43e95142099.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 042",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/042-b7984293-25af-44dd-b702-877f1e2bf9a9.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 043",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/043-c763c172-8a82-4d33-978d-e89ff7d69a4d.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 044",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/044-cdd4a089-229e-472d-8d2e-389b6e90ccf5.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 045",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/045-d0a3f94d-538a-4884-bd8c-e5cbd6853efb.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 046",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/046-d1330c51-4038-4ea5-8335-dd89b03afa94.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 047",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/047-d4e34e5b-72bc-416d-b9d3-25b9cd9688d4.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 048",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/048-d5dc5403-45c9-4101-918a-99dea1733c66.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 049",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/049-e58d5a30-3034-404e-b705-fd69228b54a3.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 050",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/050-e7674836-12e5-400d-b882-1889d0e786be.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 051",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/051-e7748f01-9cbf-4bc8-8807-732d2032dcbc.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 052",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/052-eadc6ec4-d07f-4ce0-99c5-4d6070c76078.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 053",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/053-ebf64a29-0109-428f-859e-ee2660fea644.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 054",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/054-f02aba28-0339-4a21-b80d-7c03b7d346c7.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 055",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/055-f77156a8-9724-4618-86ed-9f96e482e2cd.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 056",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/056-f856de85-3d3d-4dfe-99a7-5ab99387608b.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Мебель для школ и офисов — проект 057",
+    "category": "Мебель для школ и офисов",
+    "image": "/media/portfolio/works/school-furniture/057-e6b8928a-417f-478e-bf95-ac0f2b26e971.jpg",
+    "description": "",
+    "alt": "Мебель для школ и офисов, фотография проекта ВР-94",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 081",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/081-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 082",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/082-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 083",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/083-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 084",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/084-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 085",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/085-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 086",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/086-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 087",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/087-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 088",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/088-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 089",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/089-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 090",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/090-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 091",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/091-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 092",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/092-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  },
+  {
+    "title": "Кухня — проект 093",
+    "category": "Кухни",
+    "image": "/media/portfolio/works/kitchens/093-kitchen-vr94.jpg",
+    "description": "",
+    "alt": "Кухонный гарнитур ВР-94, фотография проекта",
+    "year": ""
+  }
+]
